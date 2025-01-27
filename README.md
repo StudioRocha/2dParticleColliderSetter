@@ -1,2 +1,2 @@
 # particleColliderSetter
-For Unity code 
+For Unity code // パーティクルを生成したいparticleSystemをもつオブジェクトにアタッチして使います。デフォルトでは、アタッチしたオブジェクトを親として2dColliderを生成。
