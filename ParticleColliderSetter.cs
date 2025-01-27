@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections.Generic;
 
 [RequireComponent(typeof(ParticleSystem))]
@@ -32,8 +32,7 @@ public class ParticleColliderSetter : MonoBehaviour
 
 
 
-    // コピーするプレイヤーステータス
-    public CharacterStats playerStats;
+  
 
     void Start()
     {
